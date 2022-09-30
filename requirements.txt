@@ -4,7 +4,7 @@ cffi==1.12.3
 HTSeq==0.11.2
 importlib-metadata==0.20
 Jinja2==2.10.1
-joblib==0.13.2
+joblib==1.2.0
 MarkupSafe==1.1.1
 more-itertools==7.2.0
 numpy==1.17.1
